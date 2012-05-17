@@ -1,9 +1,9 @@
 { "name": "ability"
 , "version": "0.0.3"
-, "homepage": "https://github.com/scottkf/ability-js/"
+, "homepage": "https://github.com/sbabigian/ability-js"
 , "repository": {
     "type": "git",
-    "url": "git://github.com/scottkf/ability-js.git"
+    "url": "git@github.com:sbabigian/ability-js.git"
   }
 , "engines": ["node >= 0.4.0"]
 , "description": "A simple route-based ACL component for expressjs."
